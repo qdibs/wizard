@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 3600,
   "WEI_COST": 36000000000000000,
   "DISPLAY_COST": 0.036,
-  "GAS_LIMIT": 158000,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/wzrdz",
   "SHOW_BACKGROUND": true
